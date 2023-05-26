@@ -1,0 +1,9 @@
+* cl-argparse
+
+A common lisp cmd argument parser inspired by python argparse
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/simkoc/cl-argparse.git |
+| commit  | 41c0710                                       |
+| systems | cl-argparse                                   |
+|---------+-----------------------------------------------|
